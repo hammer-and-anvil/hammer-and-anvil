@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @hammer-and-anvil
-- 👀 I’m interested in ...
+Michael Leone
+- Successful Construction Project Manager and Owner, with 35+ years in business
+development and operations. Seeking to pivot career to the IT and Cybersecurity sector, with a long term goal of Incident Management;
+Governance, Risk Management, and Compliance; or Business Continuity Management.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
- - email
-- ⚡ Fun fact: ...
+  - email
+
 
 <!---
 hammer-and-anvil/hammer-and-anvil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
