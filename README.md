@@ -14,7 +14,7 @@ development and operations, until I fell from a ladder. Now I'm seeking to pivot
 
 - [portfolio](https://github.com/hammer-and-anvil/portfolio)
 - [certifications](https://www.credly.com/users/michael-leone.aa3244b4)
-- [contact](mailto:mal@hammerandanvil.net?subject=[GitHub]%20Source%20Han%20Sans)
+
 
 
 <!---
