@@ -12,7 +12,7 @@ development and operations, until I fell from a ladder. Now I'm seeking to pivot
   
 > *Michael Leone*
 - [portfolio](https://github.com/hammer-and-anvil/portfolio)
-- [certifications](https://www.credly.com/users/michael-leone.aa3244b4)
+- [certifications](https://github.com/hammer-and-anvil/certifications/tree/main)
 
 
 
