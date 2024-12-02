@@ -6,9 +6,9 @@ development and operations, until I fell from a ladder. Now I'm seeking to pivot
 > *resilience and adaptability in the face of life’s challenges*
 
 ### It is better to be the hammer than the anvil
-> *individual agency over passiveness*
+> *individual agency over inaction*
 
-### I haven't decided yet if I am more hammer, or anvil, or that wrought between them...
+### I haven't decided yet if I am more of a hammer, an anvil, or that wrought between them...
   
 > *Michael Leone*
 - [portfolio](https://github.com/hammer-and-anvil/portfolio)
