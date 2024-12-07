@@ -1,6 +1,5 @@
 ### Inter malleum et incudem — Between the hammer and the anvil
-> *I was a successful construction Project Manager and Owner, with 35+ years in business
-development and operations, until I fell from a ladder. Now I'm seeking to pivot careers to the IT and Cybersecurity sector*
+> *I spent over 35 years as a successful Construction Project Manager and business owner, leading business development and operations in the industry. That was until an accident—a fall from a ladder—changed my trajectory. Now, I'm shifting gears and looking to pivot into the IT and Cybersecurity sector, ready to apply my skills, experience, and resilience to a new challenge.*
 
 ### A good anvil does not fear the hammer
 > *resilience and adaptability in the face of life’s challenges*
